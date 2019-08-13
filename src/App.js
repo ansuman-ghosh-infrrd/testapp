@@ -7,7 +7,7 @@ function App() {
             <div
                 style={{ height: '100vh', width: '100vw' }}
                 className="bg-primary">
-                <h1 className="display-1">push test</h1>
+                <h1 className="display-1">push test 1</h1>
             </div>
         </div>
     );
