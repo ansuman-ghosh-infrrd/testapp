@@ -1,16 +1,10 @@
 import React from 'react';
 import './App.css';
 
+import Test from './Test';
+
 function App() {
-    return (
-        <div className="App">
-            <div
-                style={{ height: '100vh', width: '100vw' }}
-                className="bg-primary">
-                <h1 className="display-1">push test 1</h1>
-            </div>
-        </div>
-    );
+    return <Test />;
 }
 
 export default App;
